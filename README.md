@@ -8,7 +8,7 @@
 ## <a id="table-of-contents"></a> 📚 Table of contents
 
 - [ 📚 Table of contents](#--table-of-contents)
-- [ 🤗 !!! Trained Modles !!!](#---trained-modles-)
+- [ 🤗 Trained Modles](#---trained-modles-)
 - [ 🌟 Introduction](#--introduction)
 - [ 💾 Dataset Prepare](#--dataset-prepare)
   - [Dataset access](#dataset-access)
@@ -23,7 +23,7 @@
 - [ 🙏 Acknowledgments](#--acknowledgments)
 - [ 🎫 License](#--license)
 
-## <a id="Trained Modles"></a> 🤗 !!! Trained Modles !!!
+# <a id="Trained Modles"></a> 🤗 Trained Modles
 We provide all trained models here [google drive](https://drive.google.com/drive/folders/1e-tAdw_g5rnggAL9tWlwGe_F5LSGcL0g?usp=drive_link). You can find all the weights corresponding to the settings in the models folder, then directly test to get the results as here [Model Testing](#model-testing).
 
 ## <a id="Introduction"></a> 🌟 Introduction
