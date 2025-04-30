@@ -33,7 +33,7 @@ This repository is the code implementation of the paper ***Boosting Domain Gener
 
 ***Generalization:*** Constructing an object-centered auxiliary branch using masked images with class prompts to help diffusion detectors obtain more robust domain-invariant features focused on objects, and applying consistency loss to align both branches, balancing fitness and generalization.
 
-***Generalization:*** Within a unified framework, guiding standard detectors with diffusion detectors through feature-level and object-level alignment on source domains (for DG) and unlabeled target domains (for DA) to improve cross-domain detection performance.
+***Transferability:*** Within a unified framework, guiding standard detectors with diffusion detectors through feature-level and object-level alignment on source domains (for DG) and unlabeled target domains (for DA) to improve cross-domain detection performance.
 
 Our method achieves competitive results on 3 DA benchmarks and 5 DG benchmarks. Extended experiments on COCO demonstrate that our approach maintains significant advantages over stronger models across different data scales, showing remarkable efficiency particularly in scenarios with large domain shifts and limited training data. This work proves the superiority of applying diffusion models to domain generalized and adaptive detection tasks, offering valuable insights for visual perception tasks requiring generalization and adaptation capabilities.
 
