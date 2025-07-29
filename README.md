@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
 
-  <h3 align="center">[ICCV2025 Highlight]Boosting Domain Generalized and Adaptive Detection with Diffusion Models: Fitness, Generalization, and Transferability</h3>
+  <h3 align="center">Boosting Domain Generalized and Adaptive Detection with Diffusion Models: Fitness, Generalization, and Transferability</h3>
 
 </p>
 
